@@ -29,6 +29,10 @@ h1 {
   color: var(--light-grey);
   margin: 20px 0 40px 0;
 }
+img {
+  position: relative;
+  top: 10px;
+}
 
 .todo-app {
   background-color: var(--white);
